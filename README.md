@@ -28,7 +28,7 @@ hackthon/
 |-------|-----------|
 | Frontend | Streamlit |
 | Backend | FastAPI |
-| Embeddings | `all-MiniLM-L6-v2` (Hugging Face, runs **locally**) |
+| Embeddings | `all-MiniLM-L6-v2` (Hugging Face) |
 | Vector Store | FAISS (CPU) |
 | LLM | `meta-llama/Meta-Llama-3-8B-Instruct` via HF Inference API |
 | File Parsing | pypdf, python-docx |
